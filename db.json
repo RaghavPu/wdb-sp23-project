@@ -1,0 +1,31 @@
+{
+    "unicorns": [
+      {
+        "name": "Big Drip J",
+        "fur": "white",
+        "hornLength": 8,
+        "isBaby": true,
+        "owner": "Jiro"
+      },
+      {
+        "name": "Sapphire",
+        "fur": "blue",
+        "hornLength": 12,
+        "isBaby": false,
+        "owner": "Saketh"
+      },
+      {
+        "name": "Brother",
+        "fur": "yellow",
+        "hornLength": 99,
+        "isBaby": false,
+        "owner": "Nico"
+      }
+    ],
+    "users": {
+
+    },
+    "rides": {
+
+    }
+  }
